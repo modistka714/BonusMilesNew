@@ -1,4 +1,4 @@
-public class Main {
+public class MainCreditPaymentService {
     public static void main(String[] args) {
         CreditPaymentService service = new CreditPaymentService();
         double sum = 1000000;
